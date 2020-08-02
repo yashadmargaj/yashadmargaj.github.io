@@ -1,5 +1,5 @@
 @media screen and (max-width: 10000px){
-body{
+*{
 font: 15px/1.5 Arial;
 margin: 0;
 padding: 0;
@@ -15,17 +15,15 @@ nav ul{
 background: #000000;
 border-radius: 25px;
 display: flex;
-font-size: 21.25px;
 justify-content: space-around;
-margin: 0;
-padding: 0;
-transition: 0.25s;
 }
 nav ul li{
 list-style: none;
 }
 nav ul li a{
 color: #ffffff;
+font-size: 25px;
+font-weight: bold;
 text-decoration: none;
 }
 nav ul li a:hover{
@@ -45,14 +43,13 @@ width: 100%;
 /*AboutMe*/
 hr{
 border: 2px solid #000000;
-margin: 0;
-}
-h1{
-margin: 0;
-text-align: center;
 }
 .p1{
-margin: 0;
+font-size: 25px;
+font-weight: bold;
+text-align: center;
+}
+.p2{
 text-align: justify;
 }
 
@@ -62,17 +59,13 @@ width: 100%;
 }
 .td1{
 background-color: #f0f0f0;
-border-bottom: 22.5px solid #ffffff;
-margin: 0;
-padding: 1%;
-}
-.p2{
-font-size: 17.5px;
-margin: 0;
-text-align: center;
+border-bottom: 25px solid #ffffff;
+padding: 10px;
 }
 .p3{
-margin: 0;
+font-size: 20px;
+font-weight: bold;
+text-align: center;
 }
 .img2{
 display: block;
@@ -83,17 +76,17 @@ width: 50%;
 /*Skills*/
 .container2{
 background-color: #f0f0f0;
-padding: 2%;
+padding: 10px;
 }
 .container3{
 background-color: #ffffff;
-border: 4px solid #000000;
+border: 2px solid #000000;
 border-radius: 25px;
 }
 .skills{
 border-radius: 25px;
 color: #ffffff;
-padding-left: 2%;
+padding-left: 10px;
 }
 .c{
 width: 75%; 
@@ -132,7 +125,7 @@ width: 70%;
 background-color: #000000;
 }
 .mlls{
-width: 70%; 
+width: 65%; 
 background-color: #000000;
 }
 .aadt{
@@ -167,24 +160,21 @@ background-color: #000000;
 /*Contact*/
 .table2{
 margin: auto;
-width: 150px;
-}
-.td2{
-margin: 0;
+width: 125px;
 }
 .img3{
 display: block;
 float: left;
 margin: auto;
-padding: 1%;
-width: 45px;
+padding: 10px;
+width: 40px;
 }
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 1000px){
 .res{
 display: block;
-padding-left: 1%;
+padding-left: 5px;
 }
 nav ul{
 border-radius: 0px;
@@ -192,7 +182,7 @@ display: none;
 flex-direction: column;
 }
 nav ul li{
-padding: 1%;
+padding: 5px;
 text-align: center;
 }
 .active{
