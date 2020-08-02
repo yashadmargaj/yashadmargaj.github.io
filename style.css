@@ -23,7 +23,7 @@ list-style: none;
 nav ul li a{
 color: #ffffff;
 font-size: 25px;
-font-weight: bold;
+font-weight: normal;
 text-decoration: none;
 }
 nav ul li a:hover{
