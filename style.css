@@ -58,8 +58,7 @@ width: 100%;
 }
 .td1{
 background-color: #f0f0f0;
-border-bottom: 25px solid #ffffff;
-padding: 10px;
+padding: 5px;
 }
 .p3{
 font-size: 20px;
@@ -75,7 +74,7 @@ width: 50%;
 /*Skills*/
 .container2{
 background-color: #f0f0f0;
-padding: 10px;
+padding: 5px;
 }
 .container3{
 background-color: #ffffff;
@@ -159,14 +158,14 @@ background-color: #000000;
 /*Contact*/
 .table2{
 margin: auto;
-width: 125px;
+width: 75px;
 }
 .img3{
 display: block;
 float: left;
 margin: auto;
-padding: 10px;
-width: 40px;
+padding: 5px;
+width: 25px;
 }
 }
 
