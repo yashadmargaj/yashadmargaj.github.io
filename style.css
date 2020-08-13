@@ -5,6 +5,10 @@ margin: 0;
 padding: 0;
 }
 
+.res{
+display: none;
+}
+
 .container1{
 margin: auto;
 width: 85%;
@@ -13,7 +17,7 @@ width: 85%;
 /*header*/
 nav ul{
 background: #000000;
-border-radius: 25px;
+border-radius: 20px;
 display: flex;
 justify-content: space-around;
 }
@@ -28,13 +32,10 @@ text-decoration: none;
 nav ul li a:hover{
 color: #808080;
 }
-.res{
-display: none;
-}
 
 /*Home*/
 .img1{
-border-radius: 25px;
+border-radius: 20px;
 display: block;
 width: 100%;
 }
@@ -71,35 +72,41 @@ margin: auto;
 width: 50%;
 }
 
+/*Projects*/
+.img3{
+display: block;
+margin: auto;
+width: 25%;
+}
+
 /*Skills*/
 .container2{
-background-color: #f0f0f0;
 padding: 5px;
 }
 .container3{
 background-color: #ffffff;
 border: 2px solid #000000;
-border-radius: 25px;
+border-radius: 20px;
 }
 .skills{
-border-radius: 25px;
+border-radius: 20px;
 color: #ffffff;
 padding-left: 5px;
 }
 .c{
-width: 75%; 
+width: 70%; 
 background-color: #000000;
 }
 .cpp{
-width: 75%; 
+width: 70%; 
 background-color: #000000;
 }
 .java{
-width: 80%; 
+width: 75%; 
 background-color: #000000;
 }
 .pyth{
-width: 70%; 
+width: 65%; 
 background-color: #000000;
 }
 .html{
@@ -115,7 +122,7 @@ width: 65%;
 background-color: #000000;
 }
 .sql{
-width: 75%; 
+width: 70%; 
 background-color: #000000;
 }
 .dsaa{
@@ -123,7 +130,7 @@ width: 70%;
 background-color: #000000;
 }
 .mlls{
-width: 65%; 
+width: 60%; 
 background-color: #000000;
 }
 .aadt{
@@ -131,15 +138,19 @@ width: 70%;
 background-color: #000000;
 }
 .webd{
-width: 75%; 
+width: 70%; 
 background-color: #000000;
 }
-.linux{
+.reas{
 width: 65%; 
 background-color: #000000;
 }
+.linux{
+width: 60%; 
+background-color: #000000;
+}
 .git{
-width: 50%; 
+width: 55%; 
 background-color: #000000;
 }
 .lead{
@@ -160,7 +171,7 @@ background-color: #000000;
 margin: auto;
 width: 75px;
 }
-.img3{
+.img4{
 display: block;
 float: left;
 margin: auto;
@@ -170,10 +181,6 @@ width: 25px;
 }
 
 @media screen and (max-width: 850px){
-.res{
-display: block;
-padding-left: 5px;
-}
 nav ul{
 border-radius: 0px;
 display: none;
@@ -183,7 +190,17 @@ nav ul li{
 padding: 5px;
 text-align: center;
 }
+.res{
+display: block;
+padding-left: 5px;
+}
 .active{
 display: block;
+}
+.img2{
+width: 100%;
+}
+.img3{
+width: 50%;
 }
 }
