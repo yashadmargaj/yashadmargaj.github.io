@@ -1,5 +1,3 @@
-$(document).ready(function(){
-$(".menu").click(function(){
-$("ul").toggleClass("active");
-})
-})
+function openMenu(){
+document.getElementById("menu").classList.toggle("active");
+}
