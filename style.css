@@ -5,27 +5,23 @@ margin: 0;
 padding: 0;
 }
 
-.mob_nav{
-display: none;
-}
-
+/*header*/
 .scroll_top{
-bottom: 25px;
+bottom: 20px;
 position: fixed;
 right: 25px;
 }
-
-.container1{
-margin: auto;
-width: 85%;
+.open_menu{
+display: none;
 }
-
-/*header*/
 nav ul{
 background: #000000;
 border-radius: 20px;
 display: flex;
 justify-content: space-around;
+margin: auto;
+text-align: center;
+width: 85%;
 }
 nav ul li{
 list-style: none;
@@ -40,6 +36,10 @@ color: #808080;
 }
 
 /*Home*/
+.container1{
+margin: auto;
+width: 85%;
+}
 .img1{
 border-radius: 20px;
 display: block;
@@ -56,6 +56,7 @@ font-weight: bold;
 text-align: center;
 }
 .p2{
+font-size: 15px;
 text-align: justify;
 }
 
@@ -67,15 +68,19 @@ width: 100%;
 background-color: #f0f0f0;
 padding: 5px;
 }
+.img2{
+display: block;
+margin: auto;
+width: 50%;
+}
 .p3{
 font-size: 20px;
 font-weight: bold;
 text-align: center;
 }
-.img2{
-display: block;
-margin: auto;
-width: 50%;
+.p4{
+font-size: 15px;
+text-align: left;
 }
 
 /*Projects*/
@@ -187,26 +192,35 @@ width: 25px;
 }
 
 @media screen and (max-width: 850px){
-.mob_nav{
-display: block;
-padding-left: 5px;
-}
 .scroll_top{
 bottom: 0;
-position: fixed;
 right: 5px;
 }
-nav ul{
-border-radius: 0px;
-display: none;
-flex-direction: column;
+#menu{
+left: -75%;
+position: fixed;
+top: 0;
+width: 75%;
 }
-nav ul li{
-padding: 5px;
-text-align: center;
-}
-.active{
+#menu .open_menu{
 display: block;
+left: 100%;
+padding: 5px;
+position: absolute;
+}
+#menu nav ul{
+border-radius: 0px;
+flex-direction: column;
+height: 100vh;
+margin: 0;
+position: fixed;
+width: 75%;
+}
+#menu nav ul li{
+padding: 5px;
+}
+#menu.active{
+left: 0;
 }
 .img2{
 width: 100%;
