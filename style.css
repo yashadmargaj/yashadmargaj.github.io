@@ -191,7 +191,7 @@ width: 25px;
 }
 }
 
-@media screen and (max-width: 850px){
+@media screen and (max-width: 1000px){
 .scroll_top{
 bottom: 0;
 right: 5px;
