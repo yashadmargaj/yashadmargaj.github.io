@@ -16,7 +16,7 @@ display: none;
 }
 nav ul{
 background: #000000;
-border-radius: 20px;
+border-radius: 25px;
 display: flex;
 justify-content: space-around;
 margin: auto;
@@ -41,7 +41,7 @@ margin: auto;
 width: 85%;
 }
 .img1{
-border-radius: 20px;
+border-radius: 25px;
 display: block;
 width: 100%;
 }
@@ -92,28 +92,28 @@ width: 25%;
 
 /*Skills*/
 .container2{
-padding: 5px;
+padding: 0;
 }
 .container3{
 background-color: #ffffff;
 border: 2px solid #000000;
-border-radius: 20px;
+border-radius: 25px;
 }
 .skills{
-border-radius: 20px;
+border-radius: 25px;
 color: #ffffff;
-padding-left: 5px;
+padding: 0 5px;
 }
 .c{
-width: 70%; 
+width: 65%; 
 background-color: #000000;
 }
 .cpp{
-width: 70%; 
+width: 65%; 
 background-color: #000000;
 }
 .java{
-width: 75%; 
+width: 70%; 
 background-color: #000000;
 }
 .pyth{
@@ -121,15 +121,15 @@ width: 65%;
 background-color: #000000;
 }
 .html{
-width: 75%; 
-background-color: #000000;
-}
-.css{
 width: 70%; 
 background-color: #000000;
 }
-.jast{
+.css{
 width: 65%; 
+background-color: #000000;
+}
+.jast{
+width: 60%; 
 background-color: #000000;
 }
 .sql{
@@ -137,7 +137,7 @@ width: 70%;
 background-color: #000000;
 }
 .dsaa{
-width: 70%; 
+width: 65%; 
 background-color: #000000;
 }
 .mlls{
@@ -145,7 +145,7 @@ width: 60%;
 background-color: #000000;
 }
 .aadt{
-width: 70%; 
+width: 65%; 
 background-color: #000000;
 }
 .webd{
@@ -153,27 +153,27 @@ width: 70%;
 background-color: #000000;
 }
 .reas{
-width: 65%; 
+width: 70%; 
 background-color: #000000;
 }
 .linux{
-width: 60%; 
+width: 65%; 
 background-color: #000000;
 }
 .git{
-width: 55%; 
+width: 70%; 
 background-color: #000000;
 }
 .lead{
-width: 75%; 
+width: 70%; 
 background-color: #000000;
 }
 .mana{
-width: 75%; 
+width: 70%; 
 background-color: #000000;
 }
 .mark{
-width: 75%; 
+width: 70%; 
 background-color: #000000;
 }
 
