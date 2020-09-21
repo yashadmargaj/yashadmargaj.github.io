@@ -78,6 +78,10 @@ font-size: 20px;
 font-weight: bold;
 text-align: center;
 }
+.p4{
+font-size: 15px;
+text-align: left;
+}
 
 /*Projects*/
 .img3{
@@ -92,7 +96,7 @@ padding: 0;
 }
 .container3{
 background-color: #ffffff;
-border: 2px solid #000000;
+border: 4px solid #000000;
 border-radius: 25px;
 }
 .skills{
@@ -108,15 +112,15 @@ background-color: #000000;
 width: 65%; 
 background-color: #000000;
 }
-.java{
+.jav{
 width: 70%; 
 background-color: #000000;
 }
-.pyth{
+.pyt{
 width: 65%; 
 background-color: #000000;
 }
-.html{
+.htm{
 width: 70%; 
 background-color: #000000;
 }
@@ -124,7 +128,7 @@ background-color: #000000;
 width: 65%; 
 background-color: #000000;
 }
-.jast{
+.jst{
 width: 60%; 
 background-color: #000000;
 }
@@ -132,43 +136,47 @@ background-color: #000000;
 width: 70%; 
 background-color: #000000;
 }
-.dsaa{
+.dsa{
 width: 65%; 
 background-color: #000000;
 }
-.mlls{
+.adn{
 width: 60%; 
 background-color: #000000;
 }
-.aadt{
-width: 65%; 
-background-color: #000000;
-}
-.webd{
-width: 70%; 
-background-color: #000000;
-}
-.reas{
-width: 70%; 
-background-color: #000000;
-}
-.linux{
+.aso{
 width: 65%; 
 background-color: #000000;
 }
 .git{
+width: 60%; 
+background-color: #000000;
+}
+.gcp{
+width: 60%; 
+background-color: #000000;
+}
+.aws{
+width: 60%; 
+background-color: #000000;
+}
+.lin{
+width: 65%; 
+background-color: #000000;
+}
+.pho{
+width: 65%; 
+background-color: #000000;
+}
+.lea{
 width: 70%; 
 background-color: #000000;
 }
-.lead{
+.man{
 width: 70%; 
 background-color: #000000;
 }
-.mana{
-width: 70%; 
-background-color: #000000;
-}
-.mark{
+.mar{
 width: 70%; 
 background-color: #000000;
 }
