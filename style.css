@@ -153,7 +153,7 @@ width: 65%;
 background-color: #000000;
 }
 .gcp{
-width: 60%; 
+width: 65%; 
 background-color: #000000;
 }
 .aws{
@@ -168,23 +168,11 @@ background-color: #000000;
 width: 65%; 
 background-color: #000000;
 }
-.lea{
-width: 70%; 
-background-color: #000000;
-}
-.man{
-width: 70%; 
-background-color: #000000;
-}
-.mar{
-width: 70%; 
-background-color: #000000;
-}
 
 /*Contact*/
 .table2{
 margin: auto;
-width: 75px;
+width: 110px;
 }
 .img4{
 display: block;
