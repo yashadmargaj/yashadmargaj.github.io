@@ -117,7 +117,7 @@ width: 70%;
 background-color: #000000;
 }
 .pyt{
-width: 65%; 
+width: 75%; 
 background-color: #000000;
 }
 .htm{
@@ -133,19 +133,19 @@ width: 60%;
 background-color: #000000;
 }
 .sql{
-width: 70%; 
-background-color: #000000;
-}
-.adn{
-width: 60%; 
-background-color: #000000;
-}
-.aso{
 width: 65%; 
 background-color: #000000;
 }
-.aie{
+.adn{
+width: 75%; 
+background-color: #000000;
+}
+.aso{
 width: 70%; 
+background-color: #000000;
+}
+.aie{
+width: 65%; 
 background-color: #000000;
 }
 .gcp{
@@ -153,7 +153,7 @@ width: 65%;
 background-color: #000000;
 }
 .aws{
-width: 60%; 
+width: 65%; 
 background-color: #000000;
 }
 .git{
@@ -161,7 +161,7 @@ width: 65%;
 background-color: #000000;
 }
 .lin{
-width: 65%; 
+width: 70%; 
 background-color: #000000;
 }
 .app{
@@ -172,7 +172,7 @@ background-color: #000000;
 /*Contact*/
 .table2{
 margin: auto;
-width: 110px;
+width: 75px;
 }
 .img4{
 display: block;
