@@ -105,7 +105,7 @@ color: #ffffff;
 padding: 0 5px;
 }
 .c{
-width: 65%; 
+width: 60%; 
 background-color: #000000;
 }
 .cpp{
@@ -118,6 +118,18 @@ background-color: #000000;
 }
 .pyt{
 width: 75%; 
+background-color: #000000;
+}
+.num{
+width: 70%; 
+background-color: #000000;
+}
+.pan{
+width: 65%; 
+background-color: #000000;
+}
+.sln{
+width: 60%; 
 background-color: #000000;
 }
 .htm{
@@ -133,18 +145,6 @@ width: 60%;
 background-color: #000000;
 }
 .sql{
-width: 65%; 
-background-color: #000000;
-}
-.adn{
-width: 75%; 
-background-color: #000000;
-}
-.aso{
-width: 70%; 
-background-color: #000000;
-}
-.aie{
 width: 65%; 
 background-color: #000000;
 }
