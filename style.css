@@ -90,7 +90,7 @@ margin: auto;
 width: 25%;
 }
 
-/*Skills*/
+/*Skills and Hobbies*/
 .container2{
 padding: 0;
 }
@@ -104,69 +104,59 @@ border-radius: 25px;
 color: #ffffff;
 padding: 0 5px;
 }
-.c{
-width: 60%; 
-background-color: #000000;
-}
-.cpp{
+.pyt{
 width: 65%; 
 background-color: #000000;
 }
 .jav{
-width: 70%; 
-background-color: #000000;
-}
-.pyt{
-width: 75%; 
-background-color: #000000;
-}
-.num{
-width: 70%; 
-background-color: #000000;
-}
-.pan{
-width: 65%; 
-background-color: #000000;
-}
-.sln{
 width: 60%; 
+background-color: #000000;
+}
+.cpp{
+width: 55%; 
+background-color: #000000;
+}
+.c{
+width: 50%; 
 background-color: #000000;
 }
 .htm{
-width: 70%; 
-background-color: #000000;
-}
-.css{
-width: 65%; 
-background-color: #000000;
-}
-.jst{
 width: 60%; 
 background-color: #000000;
 }
+.css{
+width: 55%; 
+background-color: #000000;
+}
+.jst{
+width: 50%; 
+background-color: #000000;
+}
 .sql{
-width: 65%; 
+width: 45%; 
 background-color: #000000;
 }
-.aws{
-width: 65%; 
+.num{
+width: 55%; 
 background-color: #000000;
 }
-.gcp{
-width: 65%; 
+.pan{
+width: 50%; 
+background-color: #000000;
+}
+.sln{
+width: 45%; 
 background-color: #000000;
 }
 .git{
-width: 65%; 
+width: 40%; 
 background-color: #000000;
 }
-.lin{
-width: 70%; 
-background-color: #000000;
-}
-.app{
-width: 65%; 
-background-color: #000000;
+
+/*Awards and Achievements*/
+.p5{
+font-size: 15px;
+text-align: center;
 }
 
 /*Contact*/
@@ -183,7 +173,7 @@ width: 25px;
 }
 }
 
-@media screen and (max-width: 850px){
+@media screen and (max-width: 1350px){
 .scroll_top{
 bottom: 0;
 right: 5px;
