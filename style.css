@@ -120,6 +120,18 @@ background-color: #000000;
 width: 50%; 
 background-color: #000000;
 }
+.num{
+width: 55%; 
+background-color: #000000;
+}
+.pan{
+width: 50%; 
+background-color: #000000;
+}
+.sln{
+width: 45%; 
+background-color: #000000;
+}
 .htm{
 width: 60%; 
 background-color: #000000;
@@ -133,18 +145,6 @@ width: 50%;
 background-color: #000000;
 }
 .sql{
-width: 45%; 
-background-color: #000000;
-}
-.num{
-width: 55%; 
-background-color: #000000;
-}
-.pan{
-width: 50%; 
-background-color: #000000;
-}
-.sln{
 width: 45%; 
 background-color: #000000;
 }
