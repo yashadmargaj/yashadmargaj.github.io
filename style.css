@@ -108,18 +108,18 @@ padding: 0 5px;
 width: 65%; 
 background-color: #000000;
 }
-.jav{
-width: 60%; 
-background-color: #000000;
-}
-.cpp{
+.num{
 width: 55%; 
 background-color: #000000;
 }
-.c{
+.pan{
 width: 50%; 
 background-color: #000000;
 }
+.sln{
+width: 45%; 
+background-color: #000000;
+}  
 .htm{
 width: 60%; 
 background-color: #000000;
@@ -136,16 +136,16 @@ background-color: #000000;
 width: 45%; 
 background-color: #000000;
 }
-.num{
+.jav{
+width: 60%; 
+background-color: #000000;
+}
+.cpp{
 width: 55%; 
 background-color: #000000;
 }
-.pan{
+.c{
 width: 50%; 
-background-color: #000000;
-}
-.sln{
-width: 45%; 
 background-color: #000000;
 }
 .git{
