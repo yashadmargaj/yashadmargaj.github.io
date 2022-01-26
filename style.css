@@ -1,4 +1,4 @@
-@media screen and (max-width: 10000px){
+@media screen and (max-width: 20000px){
 *{
 font: 15px/1.5 Arial;
 margin: 0;
@@ -68,11 +68,6 @@ width: 100%;
 background-color: #f0f0f0;
 padding: 5px;
 }
-.img2{
-display: block;
-margin: auto;
-width: 50%;
-}
 .p3{
 font-size: 20px;
 font-weight: bold;
@@ -81,13 +76,6 @@ text-align: center;
 .p4{
 font-size: 15px;
 text-align: left;
-}
-
-/*Projects*/
-.img3{
-display: block;
-margin: auto;
-width: 25%;
 }
 
 /*Skills and Hobbies*/
@@ -109,27 +97,27 @@ width: 65%;
 background-color: #000000;
 }
 .num{
-width: 55%; 
+width: 50%; 
 background-color: #000000;
 }
 .pan{
-width: 50%; 
+width: 45%; 
 background-color: #000000;
 }
 .sln{
-width: 45%; 
+width: 40%; 
 background-color: #000000;
 }  
 .htm{
-width: 60%; 
+width: 50%; 
 background-color: #000000;
 }
 .css{
-width: 55%; 
+width: 45%; 
 background-color: #000000;
 }
 .jst{
-width: 50%; 
+width: 40%; 
 background-color: #000000;
 }
 .sql{
@@ -137,19 +125,19 @@ width: 45%;
 background-color: #000000;
 }
 .jav{
-width: 60%; 
-background-color: #000000;
-}
-.cpp{
-width: 55%; 
-background-color: #000000;
-}
-.c{
 width: 50%; 
 background-color: #000000;
 }
-.git{
+.cpp{
+width: 45%; 
+background-color: #000000;
+}
+.c{
 width: 40%; 
+background-color: #000000;
+}
+.git{
+width: 45%; 
 background-color: #000000;
 }
 
@@ -164,7 +152,7 @@ text-align: center;
 margin: auto;
 width: 110px;
 }
-.img4{
+.img3{
 display: block;
 float: left;
 margin: auto;
@@ -173,7 +161,7 @@ width: 25px;
 }
 }
 
-@media screen and (max-width: 1350px){
+@media screen and (max-width: 1650px){
 .scroll_top{
 bottom: 0;
 right: 5px;
@@ -204,11 +192,5 @@ padding: 5px;
 }
 #menu.active{
 left: 0;
-}
-.img2{
-width: 100%;
-}
-.img3{
-width: 50%;
 }
 }
