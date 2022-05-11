@@ -93,7 +93,7 @@ color: #ffffff;
 padding: 0 5px;
 }
 .pyt{
-width: 65%; 
+width: 75%; 
 background-color: #000000;
 }
 .num{
@@ -101,43 +101,51 @@ width: 50%;
 background-color: #000000;
 }
 .pan{
-width: 45%; 
+width: 50%; 
+background-color: #000000;
+}
+.ocv{
+width: 50%; 
 background-color: #000000;
 }
 .sln{
-width: 40%; 
+width: 50%; 
 background-color: #000000;
-}  
+}
+.aws{
+width: 50%; 
+background-color: #000000;
+} 
 .htm{
 width: 50%; 
 background-color: #000000;
 }
 .css{
-width: 45%; 
+width: 35%; 
 background-color: #000000;
 }
 .jst{
-width: 40%; 
+width: 35%; 
 background-color: #000000;
 }
 .sql{
-width: 45%; 
+width: 35%; 
 background-color: #000000;
 }
 .jav{
-width: 50%; 
+width: 35%; 
 background-color: #000000;
 }
 .cpp{
-width: 45%; 
+width: 35%; 
 background-color: #000000;
 }
 .c{
-width: 40%; 
+width: 35%; 
 background-color: #000000;
 }
 .git{
-width: 45%; 
+width: 35%; 
 background-color: #000000;
 }
 
