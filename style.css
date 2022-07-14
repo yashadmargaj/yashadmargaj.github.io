@@ -105,7 +105,7 @@ width: 40%;
 background-color: #000000;
 }
 .ocv{
-width: 30%; 
+width: 40%; 
 background-color: #000000;
 }
 .sln{
@@ -125,15 +125,15 @@ width: 40%;
 background-color: #000000;
 }
 .sql{
-width: 35%; 
-background-color: #000000;
-}
-.htm{
 width: 40%; 
 background-color: #000000;
 }
+.htm{
+width: 30%; 
+background-color: #000000;
+}
 .css{
-width: 35%; 
+width: 30%; 
 background-color: #000000;
 }
 .jst{
@@ -153,7 +153,7 @@ width: 20%;
 background-color: #000000;
 }
 .git{
-width: 30%; 
+width: 40%; 
 background-color: #000000;
 }
 
