@@ -97,35 +97,27 @@ width: 60%;
 background-color: #000000;
 }
 .num{
-width: 40%; 
+width: 30%; 
 background-color: #000000;
 }
 .pan{
-width: 40%; 
+width: 30%; 
 background-color: #000000;
 }
 .ocv{
-width: 40%; 
+width: 15%; 
 background-color: #000000;
 }
 .sln{
-width: 30%; 
+width: 15%; 
 background-color: #000000;
 }
 .mat{
-width: 30%; 
+width: 15%; 
 background-color: #000000;
 }
 .dja{
-width: 20%; 
-background-color: #000000;
-}
-.aws{
-width: 40%; 
-background-color: #000000;
-}
-.sql{
-width: 40%; 
+width: 15%; 
 background-color: #000000;
 }
 .htm{
@@ -137,23 +129,31 @@ width: 30%;
 background-color: #000000;
 }
 .jst{
+width: 15%; 
+background-color: #000000;
+}
+.sql{
 width: 30%; 
 background-color: #000000;
 }
-.c{
-width: 20%; 
-background-color: #000000;
-}
-.cpp{
-width: 20%; 
-background-color: #000000;
-}
-.jav{
-width: 20%; 
+.aws{
+width: 30%; 
 background-color: #000000;
 }
 .git{
-width: 40%; 
+width: 15%; 
+background-color: #000000;
+}
+.c{
+width: 15%; 
+background-color: #000000;
+}
+.cpp{
+width: 15%; 
+background-color: #000000;
+}
+.jav{
+width: 15%; 
 background-color: #000000;
 }
 
