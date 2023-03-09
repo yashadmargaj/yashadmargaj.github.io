@@ -96,19 +96,19 @@ padding: 0 5px;
 width: 60%; 
 background-color: #000000;
 }
-.num{
+.bd{
 width: 30%; 
 background-color: #000000;
 }
-.pan{
+.aws{
 width: 30%; 
 background-color: #000000;
 }
-.ocv{
-width: 15%; 
+.lin{
+width: 30%; 
 background-color: #000000;
 }
-.sln{
+.doc{
 width: 15%; 
 background-color: #000000;
 }
@@ -128,16 +128,8 @@ background-color: #000000;
 width: 30%; 
 background-color: #000000;
 }
-.aws{
-width: 30%; 
-background-color: #000000;
-}
-.lin{
-width: 30%; 
-background-color: #000000;
-}
 .git{
-width: 15%; 
+width: 30%; 
 background-color: #000000;
 }
 
