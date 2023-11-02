@@ -93,43 +93,43 @@ color: #ffffff;
 padding: 0 5px;
 }
 .pyt{
-width: 60%; 
+width: 75%; 
 background-color: #000000;
 }
 .bd{
-width: 30%; 
+width: 62.5%; 
 background-color: #000000;
 }
-.aws{
-width: 30%; 
+.cc{
+width: 62.5%; 
 background-color: #000000;
 }
 .lin{
-width: 30%; 
+width: 62.5%; 
 background-color: #000000;
 }
 .doc{
-width: 15%; 
+width: 50%; 
 background-color: #000000;
 }
 .htm{
-width: 30%; 
+width: 50%; 
 background-color: #000000;
 }
 .css{
-width: 30%; 
+width: 37.5%; 
 background-color: #000000;
 }
 .jst{
-width: 15%; 
+width: 25%; 
 background-color: #000000;
 }
 .sql{
-width: 30%; 
+width: 50%; 
 background-color: #000000;
 }
 .git{
-width: 30%; 
+width: 50%; 
 background-color: #000000;
 }
 
