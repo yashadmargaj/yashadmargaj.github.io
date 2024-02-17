@@ -93,47 +93,47 @@ color: #ffffff;
 padding: 0 5px;
 }
 .pyt{
-width: 75%; 
+width: 80%; 
 background-color: #000000;
 }
 .gol{
-width: 50%; 
+width: 60%; 
 background-color: #000000;
 }
 .bash{
-width: 75%; 
+width: 60%; 
 background-color: #000000;
 }
 .bd{
-width: 50%; 
+width: 60%; 
 background-color: #000000;
 }
 .cc{
-width: 62.5%; 
+width: 60%; 
 background-color: #000000;
 }
 .doc{
-width: 50%; 
+width: 40%; 
 background-color: #000000;
 }
 .sql{
-width: 37.5%; 
+width: 20%; 
 background-color: #000000;
 }
 .git{
-width: 50%; 
+width: 40%; 
 background-color: #000000;
 }
 .html{
-width: 50%; 
+width: 60%; 
 background-color: #000000;
 }
 .css{
-width: 37.5%; 
+width: 40%; 
 background-color: #000000;
 }
 .jst{
-width: 25%; 
+width: 20%; 
 background-color: #000000;
 }
 
