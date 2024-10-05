@@ -92,35 +92,19 @@ border-radius: 25px;
 color: #ffffff;
 padding: 0 5px;
 }
-.pyt{
+.python{
 width: 80%; 
 background-color: #000000;
 }
-.gol{
+.golang{
 width: 60%; 
 background-color: #000000;
 }
-.bash{
-width: 60%; 
-background-color: #000000;
-}
-.bd{
-width: 60%; 
-background-color: #000000;
-}
-.cc{
-width: 60%; 
-background-color: #000000;
-}
-.doc{
-width: 40%; 
-background-color: #000000;
-}
-.sql{
+.java{
 width: 20%; 
 background-color: #000000;
 }
-.git{
+.scala{
 width: 40%; 
 background-color: #000000;
 }
@@ -132,8 +116,32 @@ background-color: #000000;
 width: 40%; 
 background-color: #000000;
 }
-.jst{
+.javascript{
 width: 20%; 
+background-color: #000000;
+}
+.sql{
+width: 40%; 
+background-color: #000000;
+}
+.cloud_computing{
+width: 60%; 
+background-color: #000000;
+}
+.big_data{
+width: 60%; 
+background-color: #000000;
+}
+.linux{
+width: 60%; 
+background-color: #000000;
+}
+.docker{
+width: 60%; 
+background-color: #000000;
+}
+.git{
+width: 60%; 
 background-color: #000000;
 }
 
